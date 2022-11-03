@@ -1,0 +1,55 @@
+
+span {
+    font-weight: bolder;
+}
+
+.span1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: palevioletred;
+    font-size: larger;
+}
+
+#cuenta {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.simply-section {
+    background-color: rosybrown;
+    color: white;
+    width: 60px;
+    height: 90px;
+    margin: 0 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.simply-amount {
+    display: block;
+    font-size: 25px;
+}
+
+.simply-word {
+    font-weight: 100;
+    font-size: 10px;
+}
+
+.titulo {
+   display: flex;
+   font-size: 1.3rem;
+}
+
+.link {
+   color: white;
+   font-weight: 600;
+   text-decoration: none;
+}
+
+span2 {
+    color: grey;
+}
+
